@@ -1,0 +1,24 @@
+[
+  {
+    "name": "VGS 12",
+    "M_star": 1.05e9,
+    "M_HI": 3.0e9,
+    "MB": -19.29,
+    "O_H": 7.67,
+    "N_O": -1.29,
+    "r_over_Rv": 0.2,
+    "isolation_flag": true,
+    "notes": "Polar disk, void wall between two large voids."
+  },
+  {
+    "name": "NGC 6789",
+    "M_star": 2.5e8,
+    "M_HI": null,
+    "MB": null,
+    "O_H": null,
+    "N_O": null,
+    "r_over_Rv": 0.1,
+    "isolation_flag": true,
+    "notes": "Local Void, deep imaging shows no tidal features down to ~30 mag/arcsec^2."
+  }
+]
