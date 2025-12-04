@@ -12,7 +12,7 @@ A python demonsstration comparing ΛCDM void expectations vs GoP core-four stand
 ```
 GoP-Void-Galaxy-Testbed/
 ├─ README.md
-├─ pyproject.toml          # or setup.cfg / setup.py if you prefer
+├─ pyproject.toml         
 ├─ gop_void_testbed/
 │  ├─ __init__.py
 │  ├─ config_core_four.py
@@ -28,7 +28,7 @@ GoP-Void-Galaxy-Testbed/
 │  ├─ run_vgs12_vs_ngc6789.py
 │  └─ plot_void_galaxy_metrics.py
 └─ notebooks/
-   ├─ 01_vgs12_gop_vs_lcdm.ipynb        # optional, you can create in Jupyter later
+   ├─ 01_vgs12_gop_vs_lcdm.ipynb    
    └─ 02_mock_void_stack_demo.ipynb     # placeholder for DESI/EUCLID era
 ```
 ---
