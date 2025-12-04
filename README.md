@@ -1,3 +1,11 @@
+# Void-Center Galaxies and the Gravity of Probability Framework: Pre-DESI Consistency with VGS 12 and NGC 6789.
+This repository accompanies the Figshare paper “Void-Center Galaxies and the Gravity of Probability Framework: Pre-DESI Consistency with VGS 12 and NGC 6789.”
+It provides a reproducible Python testbed for comparing standard ΛCDM expectations with Gravity of Probability (GoP) “core-four aware” predictions in isolated void galaxies. The code implements the unified GoP parameter set, the decoherence kernel, ΛCDM baselines, and tools for analyzing metallicity deficits, N/O enrichment, and dynamical heaviness.
+The corresponding paper is available at:
+https://figshare.com/articles/figure/Void-Center_Galaxies_and_the_Gravity_of_Probability_Framework_Pre-DESI_Consistency_with_VGS_12_and_NGC_6789/30701561
+
+---
+
 # GoP-Void-Galaxy-Testbed
 A python demonsstration comparing ΛCDM void expectations vs GoP core-four standards applied to actual void galaxies (like VGS 12, NGC 6789 now, DESI void galaxies later).
 
