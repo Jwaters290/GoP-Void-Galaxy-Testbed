@@ -39,23 +39,22 @@ Data-agnostic: today we use VGS 12 & NGC 6789; later you just drop in DESI VAC s
 
 κA was fixed by requiring simultaneous agreement with:
 
-SPARC galaxy rotation curves
-– must produce flat rotation curves with the same parameter set across 175 galaxies.
+1. SPARC galaxy rotation curves
+ – must produce flat rotation curves with the same parameter set across 175 galaxies.
 
-Bullet Cluster and lensing clusters
-– must reproduce mass offsets using probabilistic curvature without dark matter.
+2. Bullet Cluster and lensing clusters
+ – must reproduce mass offsets using probabilistic curvature without dark matter.
 
-Cosmic void warm-core amplitude
-– requires curvature contribution small but nonzero in void centers.
+3. Cosmic void warm-core amplitude
+ – requires curvature contribution small but nonzero in void centers.
 
-CMB low-ℓ suppression amplitude
-– must not overproduce large-scale gravitational potentials.
+4. CMB low-ℓ suppression amplitude
+ – must not overproduce large-scale gravitational potentials.
 
 The cross-fit pointed to a very small, stable constant.
 
 Final Value
 𝜅𝐴=1.5×10^−15*s^−1*erg^−1
-
 
 This is the “universal curvature efficiency” of decoherence.
 
@@ -69,8 +68,8 @@ Description
 
 It controls where decoherence is maximally gravitationally active:
 
-- For 𝐸≪𝐸_0: increasing energy increases decoherence.
-- For E≫E_0: the effect shuts off exponentially.
+ - For 𝐸≪𝐸_0: increasing energy increases decoherence.
+ - For E≫E_0: the effect shuts off exponentially.
 
 The peak gravitational contribution occurs near E=E_0.
 
@@ -78,17 +77,17 @@ Derivation
 
 𝐸_0 is fixed by requiring consistent predictions for:
 
-Small dwarf galaxies (SPARC low-mass set)
-– need strong decoherence effect at low energies.
+1. Small dwarf galaxies (SPARC low-mass set)
+ – need strong decoherence effect at low energies.
 
-Larger galaxies and clusters
-– decoherence must naturally suppress to avoid over-curving high-mass systems.
+2. Larger galaxies and clusters
+ – decoherence must naturally suppress to avoid over-curving high-mass systems.
 
-CMB anisotropy amplitude
-– energy scale must align with the decoherence suppressing low-ℓ modes.
+3. CMB anisotropy amplitude
+ – energy scale must align with the decoherence suppressing low-ℓ modes.
 
-Path-integral field theory quantization
-– the scalar field 𝜌Ψ acquires a natural scale near 10^12 erg from renormalization constraints.
+4. Path-integral field theory quantization
+ – the scalar field 𝜌Ψ acquires a natural scale near 10^12 erg from renormalization constraints.
 
 Final Value
 𝐸_0=1.0×10^12erg
@@ -107,17 +106,17 @@ Derivation:
 
 fₑₙₜ was introduced during the quantum extension of GoP in the path-integral formalism. It is constrained by:
 
-CMB low-ℓ suppression
-– requires ≈10–25% entanglement contribution.
+1. CMB low-ℓ suppression
+ – requires ≈10–25% entanglement contribution.
 
-Galaxy rotation curve stability
-– too large → overshoots dwarfs; too small → underpredicts mid-mass systems.
+2. Galaxy rotation curve stability
+ – too large → overshoots dwarfs; too small → underpredicts mid-mass systems.
 
-Cluster lensing
-– entanglement contribution must enhance curvature without requiring dark matter halos.
+3. Cluster lensing
+ – entanglement contribution must enhance curvature without requiring dark matter halos.
 
-RG flow from the scalar field 𝜌Ψ
-– yields an effective entanglement residue ~0.2 after coarse-graining.
+4. RG flow from the scalar field 𝜌Ψ
+ – yields an effective entanglement residue ~0.2 after coarse-graining.
 
 Final Value
 𝑓_ent=0.20
@@ -139,18 +138,18 @@ Derivation:
 
 is fixed using:
 1. LHCb measurement of Λ𝑏0 CP violation
-– the 5.2σ result gives:
+ – the 5.2σ result gives:
 
 𝐴_CP≈0.0245.
 
-CMB odd-parity suppression
-– requires a nonzero asymmetry consistent with ~2–3%.
+2. CMB odd-parity suppression
+ – requires a nonzero asymmetry consistent with ~2–3%.
 
-Asymmetric decoherence field behavior in the early universe
-– especially during baryogenesis and recombination.
+3. Asymmetric decoherence field behavior in the early universe
+ – especially during baryogenesis and recombination.
 
-Stability of galaxy fits
-– the asymmetry must be small enough not to distort rotation curve universality.
+4. Stability of galaxy fits
+ – the asymmetry must be small enough not to distort rotation curve universality.
 
 Final Value
 𝐴_CP=0.0245
